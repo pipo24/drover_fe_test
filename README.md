@@ -23,5 +23,6 @@ To get this application working locally
 =============
 
     git clone git@github.com:pipo24/drover_fe_test.git
-    shell $ bundle install
-    shell $ bundle exec rackup
+    bundle install
+    bundle exec rackup
+    on your browser go to: localhost:9292
