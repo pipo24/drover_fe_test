@@ -19,6 +19,13 @@ If you have more than 3h to try this then try building:
 - submit the form and return a message of some kind to the user
 
 
+How to submit?
+-------------
+- Create a pull request to master with your changes (add @pipo24 for review)
+- Add any comments you find necessary about the task and how you tackled it
+- Sit back and relax!
+
+
 To get this application working locally
 =============
 
